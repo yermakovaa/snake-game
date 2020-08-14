@@ -7,9 +7,6 @@ ground.src = './img/ground.png';
 const foodImg = new Image();
 foodImg.src = './img/food.png';
 
-const snakeImg = new Image();
-snakeImg.src = './img/snake.png';
-
 let box = 32;
 
 let score = 0;
