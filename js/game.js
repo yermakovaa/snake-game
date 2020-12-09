@@ -120,6 +120,6 @@ function drawGame() {
   eatTail(newHead, snake);
 
   snake.unshift(newHead);
-};
+}
 
 let game = setInterval(drawGame, 150);
